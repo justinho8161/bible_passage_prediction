@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "bible_passage"
+version = "0.1.0"
+description = ""
+authors = ["Justin Ho <44845829+justinho8161@users.noreply.github.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+ipykernel = "^5.4.2"
+jupyter = "^1.0.0"
+pandas = "^1.1.5"
+sklearn = "^0.0"
+eli5 = "^0.10.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
