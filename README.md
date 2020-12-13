@@ -16,4 +16,4 @@ Accuracy of model 59%
 
 Next, we wanted to explore which features had the biggest impact on the model, so the package ELI5 was used.
 
-[Here are the results](notebooks/results.html)
+[Here are the results](notebooks/results.pdf)
